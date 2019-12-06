@@ -7,10 +7,15 @@ This repository contains a Data Science process to build and deploy a Machine Le
 
  
 1.Setting the research goal
+
 2.Retrieving Data
+
 3.Data Preprocessing & Cleansing
+
 4.Data Exploration & Visualization
+
 5.Data Modeling
+
 6.Model Deployment
 
 ### Web-App Path 
