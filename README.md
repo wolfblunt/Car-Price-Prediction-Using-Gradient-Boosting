@@ -18,6 +18,13 @@ This repository contains a Data Science process to build and deploy a Machine Le
 
 6.Model Deployment
 
+
+
+## How to run our web app
+
+We can run app.py from the Terminal, if everything goes right, we will get the index.html page running on the '/’ route as :http://localhost:8080/ , then we can fill the given form with the right values and get the result as a sweet alert pop-up.
+
+
 ### Web-App Path 
 
 * To Visit our application follow the link below. 
