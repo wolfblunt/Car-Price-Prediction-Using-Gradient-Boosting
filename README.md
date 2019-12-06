@@ -26,10 +26,10 @@ https://capstone2-car-price-predict.herokuapp.com/
 ### Heroku Commands to deploy :
 Create a new app on the Heroku Website by logging into your account and then type the following command using CLI.
 
-$ heroku git:clone -a cars-price-prediction
-$ git add .
-$ git commit -am "make it better"
-$ git push heroku master
+* $ heroku git:clone -a cars-price-prediction
+* $ git add .
+* $ git commit -am "make it better"
+* $ git push heroku master
 
 
 ## Code credit
